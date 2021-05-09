@@ -1,15 +1,12 @@
 {
-  "name": "gatsby-starter-spectral",
+  "name": "boom-product",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Spectral by HTML5 UP",
+  "description": "POC gigya ID product app",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-spectral.git"
+    "url": "git@github.com:dinavinter/boom-product.git"
   },
-  "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
-  },
+ 
   "dependencies": {
     "gatsby": "^2.20.2",
     "gatsby-plugin-manifest": "^2.3.1",
@@ -44,8 +41,6 @@
     "gatsby-starter-spectral"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-spectral/issues"
-  },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-spectral#readme"
+  
+  "homepage": "https://dinavinter.github.io/boom-product/"
 }
